@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-tientuu:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="web-tientuu.war">
+      <element id="artifact" artifact-name="web-tientuu:war exploded" />
+    </root>
+  </artifact>
+</component>
